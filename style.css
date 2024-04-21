@@ -61,7 +61,6 @@ section{
 
 .home img{
     justify-content: center;
-    width: auto;
 }
 
 .proyek {
@@ -69,8 +68,28 @@ section{
     margin: 20px 0 20px 0;
 }
 
+.proyek a{
+    display: block;
+    width: 100px;
+    text-align: center;
+    background: #111111;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.proyek a:hover{
+    background: #ffffff;
+    color: #000000;
+    padding: 15px 20px 15px 20px;
+}
+
 .gambar-proyek {
-    width: 150px; 
+    width: 250px;
+    height: 250px; 
     margin-right: 50px;
 }
 
