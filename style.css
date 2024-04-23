@@ -60,6 +60,7 @@ section{
 }
 
 .home img{
+    margin: 0 auto;
     justify-content: center;
 }
 
