@@ -114,6 +114,14 @@ footer {
         width: 90%;
     }
 
+    .navbar.logo{
+        font-size: 80%;
+    }
+
+    .home img{
+        width: 70%;
+    }
+
     .proyek{
         display: block;
     }
